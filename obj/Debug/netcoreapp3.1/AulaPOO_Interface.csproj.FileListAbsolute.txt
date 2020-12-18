@@ -1,0 +1,13 @@
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Interface\bin\Debug\netcoreapp3.1\AulaPOO_Interface.exe
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Interface\bin\Debug\netcoreapp3.1\AulaPOO_Interface.deps.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Interface\bin\Debug\netcoreapp3.1\AulaPOO_Interface.runtimeconfig.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Interface\bin\Debug\netcoreapp3.1\AulaPOO_Interface.runtimeconfig.dev.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Interface\bin\Debug\netcoreapp3.1\AulaPOO_Interface.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Interface\bin\Debug\netcoreapp3.1\AulaPOO_Interface.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.csprojAssemblyReference.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.AssemblyInfoInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.AssemblyInfo.cs
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.csproj.CoreCompileInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.genruntimeconfig.cache
